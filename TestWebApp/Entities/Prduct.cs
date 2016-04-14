@@ -8,5 +8,6 @@ namespace TestWebApp.Entities
 {
     class Prduct
     {
+        //Added new line with comment
     }
 }
