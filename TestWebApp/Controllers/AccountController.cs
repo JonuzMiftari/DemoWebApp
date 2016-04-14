@@ -10,7 +10,6 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using TestWebApp.Models;
 
-
 namespace TestWebApp.Controllers
 {
     [Authorize]
